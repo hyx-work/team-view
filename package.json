@@ -14,8 +14,8 @@
     "Jira可视化",
     "团队管理"
   ],
-  "author": "zhangling.me@foxmail.com",
-  "license": "ISC",
+  "author": "Ling Z <zhangling.me@foxmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zhanglingup/team-view/issues"
   },

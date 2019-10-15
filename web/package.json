@@ -1,0 +1,18 @@
+{
+  "name": "team-view-web",
+  "version": "0.0.1",
+  "description": "基于Jira的技术团队可视化管理工具",
+  "author": "Ling Z <zhangling.me@foxmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "element-ui": "^2.4.11"
+  },
+  "devDependencies": {}
+}
